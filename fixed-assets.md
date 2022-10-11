@@ -47,7 +47,7 @@ The Self-Service Toolkit in Metalink contains a section on the Account Generator
 
 **Top Tech Docs > E-Business Suite: ERP > Assets > Generate Accounts**
 
-## Check your Setup
+## Check your setup
 
 Before the first asset is added to the system the system setup should be checked. Oracle Support provides two scripts, which not only check the setup of Oracle Assets and report on it but also show issues and problems and give links to Notes on how to correct these setup issues. It is highly recommended to run these scripts.
 
